@@ -23,11 +23,3 @@ Estudante de programação
 
 ![Snake animation](https://github.com/wendelschimitz10/wendelschimitz10/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-  <a href-"https://instagram.cow/andre_ferre1ra" target-" blank" ><ing src-"https: //img. shields.1o/badge/-Instagram-X2364405F ?style-for-the -badgedlogo-instagramilogoColor-hite
-target-" blank"x</a>
-<a href-" https: / /discord.£8/696P855A75" target-" blank" ><img src-"https: //ing-shields.1o/badge/Discord-72890A?style- for-the -badge£logo-discordslogoCalar-white" target-" _ blank"
-</ə>
-<a href - "andrelluisrodriguesf@gmail.com"><ing src-"https:/ /img-shields.1o/badge/-Gma1l-x23333?style-for-the-badgedlogo-gailklogoColarmhite" target-"blant "24/0>
-<a href-" link do perfil do linkedin " target-" blank"><ing src-"https: //1ng.shields.1o/badge/-Linkedin-223097795?style-for-the.
-adgeslogo-linkedinalogoColormhite" target-"
