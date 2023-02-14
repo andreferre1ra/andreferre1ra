@@ -31,4 +31,3 @@ target-" blank"x</a>
 <a href - "andrelluisrodriguesf@gmail.com"><ing src-"https:/ /img-shields.1o/badge/-Gma1l-x23333?style-for-the-badgedlogo-gailklogoColarmhite" target-"blant "24/0>
 <a href-" link do perfil do linkedin " target-" blank"><ing src-"https: //1ng.shields.1o/badge/-Linkedin-223097795?style-for-the.
 adgeslogo-linkedinalogoColormhite" target-"
-<a> https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white </a>
