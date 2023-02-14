@@ -10,9 +10,6 @@ Estudante de programação
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreferre1ra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?andreferre1ra=anuraghazra&count_private=true)
-
-
 
 
 
