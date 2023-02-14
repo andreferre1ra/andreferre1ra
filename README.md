@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, eu sou o André Ferreira 👋
 
-<!--
-**andreferre1ra/andreferre1ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Olá meu nome é André Ferreira, mas pode me chamar de André. Sou estudante de Analise e Desenvolvimento de Sistemas. Meu objetivo é explorar tudo que é possível até a conclusão da minha faculdade.
+
+Estudante de programação
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreferre1ra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?andreferre1ra=anuraghazra&count_private=true)
+
+
+
+
+
+
+
+<div align="center">
+<!--- Snake: --->
+
+![Snake animation](https://github.com/wendelschimitz10/wendelschimitz10/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
