@@ -1,4 +1,4 @@
-## Olá! Eu sou a André Ferreira
+## Olá! Eu sou o André Ferreira
  <div>
   <a href="https://github.com/andreferre1ra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreferre1ra&show_icons=false&theme=blue&include_all_commits=true&count_private=true"/>
